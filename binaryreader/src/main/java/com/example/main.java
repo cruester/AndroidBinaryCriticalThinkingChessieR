@@ -27,6 +27,7 @@ public class main
         System.out.println(" Is the decimal number: " + decimalNum);
 
         System.out.println("Hopefully gitHub works!");
+        System.out.println("Maybe this one will");
 
     }
 }
